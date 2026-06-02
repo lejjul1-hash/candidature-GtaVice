@@ -142,6 +142,12 @@ header {
   box-shadow: 0 0 15px rgba(56,189,248,.8), 0 0 30px rgba(14,165,233,.4);
   animation: spin 8s linear infinite;
 }
+.logo-img {
+  height: 36px;
+  width: auto;
+  display: block;
+  object-fit: contain;
+}
 @keyframes spin { to { transform: rotate(360deg); } }
 .logo-text {
   font-size: 18px;
