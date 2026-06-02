@@ -148,6 +148,25 @@ header {
   display: block;
   object-fit: contain;
 }
+.header-inner {
+  max-width: 1100px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 24px;
+  position: relative;
+}
+
+.header-banner {
+  height: 36px;
+  width: auto;
+  display: block;
+  object-fit: contain;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
 @keyframes spin { to { transform: rotate(360deg); } }
 .logo-text {
   font-size: 18px;
