@@ -159,8 +159,9 @@ header {
 }
 
 .header-banner {
-  height: 36px;
+  height: 42px;
   width: auto;
+  max-width: 220px;
   display: block;
   object-fit: contain;
   position: absolute;
