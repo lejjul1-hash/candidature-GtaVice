@@ -1,4 +1,4 @@
-const WEBHOOK = 'https://discord.com/api/webhooks/1511099619927523630/-VooJ8FFdaUePlfrHX7jNLPsG4v2x1DM9a2D4DfrVDDskHjuq4XWCUAVBl3UN4CS4c6w';
+const WEBHOOK = 'https://canary.discord.com/api/webhooks/1520897076886503484/ZX6uTMkSoHfJNwX-8OM_u7tonXc-rZcdClW2GRuQrbujO724o_aHIzdDS486P2XkercL';
 const ROLE_ID = '1489356197298573413';
 const WHITELIST_IP = '';
 
