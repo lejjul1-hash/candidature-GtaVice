@@ -2,25 +2,25 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --sky:         #38bdf8;
-  --sky-light:   #7dd3fc;
-  --blue:        #0ea5e9;
-  --blue-light:  #bae6fd;
-
-  --bg:  #07090f;
-  --bg2: #0b0f18;
-  --card: rgba(14,20,32,0.78);
-
-  --text:  #f0f9ff;
-  --muted: #94c8e8;
-
-  --line: rgba(255,255,255,0.06);
-  --glow: 0 0 40px rgba(56,189,248,.35);
-
+  --sky:         #f472b6;
+  --sky-light:   #f9a8d4;
+  --blue:        #a78bfa;
+  --blue-light:  #c4b5fd;
+ 
+  --bg:  #0f0512;
+  --bg2: #150820;
+  --card: rgba(20,5,30,0.78);
+ 
+  --text:  #fff0fa;
+  --muted: #d8b4fe;
+ 
+  --line: rgba(244,114,182,0.08);
+  --glow: 0 0 40px rgba(236,72,153,.4);
+ 
   --radius: 22px;
-
+ 
   --grad: linear-gradient(135deg, var(--sky), var(--blue));
-  --glass: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.02));
+  --glass: linear-gradient(180deg, rgba(244,114,182,.06), rgba(103,232,249,.02));
 }
 
 /* ── BODY ──────────────────────────────────────────── */
